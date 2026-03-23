@@ -53,7 +53,7 @@
 
 ### 📜 Certifications
 
-- ☁️ AWS Certified Cloud Practitioner (2026)
+- ☁️ [AWS Certified Cloud Practitioner (2026)](https://www.credly.com/badges/37da05d1-ec5e-4e8f-9f55-5e1fe57e6963)
 - 🏦 CAIIB — Indian Institute of Banking and Finance
 - 🏦 JAIIB — Indian Institute of Banking and Finance
 
